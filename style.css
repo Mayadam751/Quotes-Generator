@@ -1,0 +1,40 @@
+section {
+    background: linear-gradient(to bottom, #b8d0eb 0%, #f3d8c7 100%);
+}
+
+.h1,
+h1 {
+    font-size: 4rem;
+}
+
+.h2,
+h2 {
+    font-size: 2rem;
+
+}
+
+.h3,
+h3 {
+    color: #006d77;
+    font-family: 'Glass Antiqua', cursive;
+    font-size: 3.75rem;
+}
+
+#quote {
+    font-family: 'Lobster Two', cursive;
+}
+
+#generatordes {
+    font-family: 'Glass Antiqua', cursive;
+    color: #006d77
+}
+
+button {
+    font-family: 'Lobster Two', cursive;
+}
+
+#generated {
+    color: #006d77;
+    font-family: 'Lobster Two', cursive;
+    max-width: 600px;
+}
